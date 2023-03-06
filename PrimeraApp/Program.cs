@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("\n\r============================================");
+﻿Console.WriteLine("\n\r============================================");
 Console.WriteLine("\n\rSistema para registro de alumnos y promedios");
 Console.WriteLine("\n\r============================================");
 lectura();
